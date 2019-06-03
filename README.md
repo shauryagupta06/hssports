@@ -1,6 +1,6 @@
 # HS-Sports
 
-index.html file path :
+# index.html file path : 
 HSSports >> src >> src1 >> src2
 
 # Vue Installation
